@@ -3,6 +3,12 @@
 
 {% block content %}
 
-<h1> $$ TODO Error Page</h1>
+<h1 style="color:red"> This is the Error Page</h1>
+
+{{errorcode}}
+<br>
+{{errormessage}}
+<br>
+<a href="/" class="button">Return to Home Page</a>
 
 {% endblock %}

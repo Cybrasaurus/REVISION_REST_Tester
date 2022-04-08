@@ -1,1 +1,1 @@
-from .Weather import get_data_from_name
+from .weather_api_call import get_data_from_name
