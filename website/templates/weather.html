@@ -3,6 +3,30 @@
 
 {% block content %}
 
-<h1> $$ TODO Weather Page</h1>
+<style>
+table, th, td {
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 10px;
+}
+</style>
+<h1 align="center"> The weather in {{destination_name}}:</h1>
+<br>
+
+<table align="center" style="width:100%">
+    <tr style="width:50%">
+        <th>Weather</th>
+        <td>{{weather_main}}</td>
+    </tr>
+    <tr>
+        <th>Description</th>
+        <td>{{weather_desc}}</td>
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        <td>{{weather_temp}}°C</td>
+    </tr>
+
+</table>
 
 {% endblock %}

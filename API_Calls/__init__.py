@@ -1,0 +1,1 @@
+from .Weather import get_data_from_name

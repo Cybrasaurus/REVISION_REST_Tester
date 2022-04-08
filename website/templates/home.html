@@ -2,6 +2,21 @@
 {% block title %}Home{% endblock %} 
 
 {% block content %}
-<h1> $$ replace sign Home</h1>
-<h2>Where do you want to go? HTML Form Here $$TODO</h2>
+
+<h2 align="center">Where do you want to go?</h2>
+<form method="POST">
+
+    <div class="form-group">
+        <br>
+        <input
+            type="search"
+            class="form-control"
+            id="destination"
+            name="destination"
+            placeholder="Destination City Name"
+        />
+    </div>
+    <button type="submit" class="btn btn-primary">Go</button>
+
+</form>
 {% endblock %}

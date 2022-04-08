@@ -1,19 +1,31 @@
 
 from flask import Blueprint, render_template, request
+from API_Calls import get_data_from_name
 
 views = Blueprint("views", __name__)
 
+destination_city=""
 
-
-@views.route("/") # this is the path where we gonna end up, so for now just host and then /
+@views.route("/", methods=["GET", "POST"])
 def home():
+    if request.method == 'POST':
+        destination_name = request.form.get('destination')
+        print(destination_name)
+
+        global destination_city
+        destination_city=destination_name
+
     return render_template("home.html")
-    #this is the html template that gets used, is an extension of the base.html
-    #the thing written between the brackets in blocktitle is what the page is called in the browser tab
+
 
 @views.route("/weather")
 def weather():
-    return render_template("weather.html")
+    global destination_city
+    returnlist = get_data_from_name(destination_city)
+    w_main=returnlist[0]
+    w_desc = returnlist[1]
+    w_temp = returnlist[2]
+    return render_template("weather.html", destination_name=destination_city, weather_main=w_main, weather_desc=w_desc, weather_temp=w_temp)
 
 @views.route("/cur_rate")
 def cur_rate():
@@ -22,3 +34,4 @@ def cur_rate():
 @views.route("/flights")
 def flights():
     return render_template("flights.html")
+
