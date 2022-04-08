@@ -24,12 +24,8 @@ print("--------")
 def get_data_from_name(city):
     r = requests.get(
         f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=14428be4e14c02529bffa4cfb8af156a&units=metric')
-    print(type(r))
     json_object = r.json()
-    print(type(json_object))
-    print(json_object)
 
-    print("-----------")
     weather_main = json_object["weather"][0]["main"]
     weather_desc = json_object["weather"][0]["description"]
     weather_temp = json_object["main"]["temp"]
