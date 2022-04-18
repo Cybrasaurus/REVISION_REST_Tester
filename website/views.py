@@ -99,17 +99,15 @@ def cur_rate():
 
     my_bool = city_and_country_checker()
     if my_bool:
-
-        #TODO @Elisabeth code goes here now
-
-        returncur = get_currency_info(destination_city)
-        # if isinstance(returncur, str):
-        #    return render_template("404.html",
-        #                           errorcode="Something went wrong with the API Call of the Openweathermap, the error message is below:",
-        #                           errormessage=returnlist)
-        c_main = returncur[0]
-        c_latest = returncur[1]
-        return render_template("currency_rate.html", cur_main=c_main, cur_latest=c_latest)
+        returncur = get_currency_info(destination_country)
+        if isinstance(returncur, str):
+            return render_template("404.html", 
+                                    errorcode="Something went wrong with the API Call of the CurrencyScoop, the error message is below:",
+                                    errormessage=returncur)
+        else: 
+            c_main = returncur[0]
+            c_latest = returncur[1]
+            return render_template("currency_rate.html", cur_main=c_main, cur_latest=c_latest)
     else:
         return redirect(url_for("views.home"))
 
