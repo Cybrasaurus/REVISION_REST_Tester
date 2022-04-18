@@ -1,8 +1,44 @@
 {% extends "base.html" %}
-{% block title %}Weather{% endblock %}
+{% block title %}Currency Exchange{% endblock %}
 
 {% block content %}
 
-<h1> $$ TODO Currency Exchange Rate Page</h1>
+<style>
+    table, th, td {
+      border: 2px solid black;
+      padding: 15px;
+    }
+    </style>
+
+
+<h1> Currency Exchange Rate Page</h1><br>
+<table align="top" style="width:100%; height:100%">
+    <tr style="width:80%; ">
+        <th style = "width: 25%">currency name</th>
+        <td style="vertical-align: middle;">{{cur_main["currency_name"]}}</td>
+    </tr>
+    <tr>
+        <th>currency code</th>
+        <td>{{cur_main["currency_code"]}}</td>
+    </tr>
+    <tr>
+        <th>countries</th>
+        <td id = "country">blabla</td>
+        <script>var coun = '{{cur_main["countries"]}}'
+            var ncoun = coun
+                .replace("[&#39;", "")
+                .replace("&#39;]", "")
+                .replaceAll("&#39;", "") 
+            console.log (ncoun + "   blabla    " + coun )
+            document.getElementById("country").innerHTML = ncoun;
+        </script> <noscript></noscript>
+    </tr>
+    <tr>
+        <th>latest rate of currency to base USD</th>
+        <td>{{cur_latest}}</tb>
+    </tr>
+</table>
+
 
 {% endblock %}
+
