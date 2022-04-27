@@ -205,7 +205,7 @@
     "alpha3": "cri"
   },
   "Cote d'Ivoire": {
-    "EN_Name": "Co4te d'Ivoire",
+    "EN_Name": "Cote d'Ivoire",
     "DE_Name": "Elfenbeinkueste",
     "alpha3": "civ"
   },
@@ -919,7 +919,7 @@
     "DE_Name": "Vereinigtes Koenigreich",
     "alpha3": "gbr"
   },
-  "United States of America": {
+  "United States": {
     "EN_Name": "United States of America",
     "DE_Name": "Vereinigte Staaten",
     "alpha3": "usa"

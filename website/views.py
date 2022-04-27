@@ -106,25 +106,34 @@ def cur_rate():
             return render_template("404.html",
                                    errorcode="Something went wrong with the API Call of the CurrencyScoop, the error message is below:",
                                    errormessage=returncur)
+        elif isinstance(returncur, list):
+            return render_template("404.html",
+                                   errorcode="Something went wrong with the API Call of the CurrencyScoop, the error message is below:",
+                                   errormessage=returncur[1])
         else:
             c_main = returncur[0]  # basic info
             c_latest = returncur[1]  # latest rate, base EUR
             c_average = returncur[2]  # average currency rate, for 7 days, specify days in currency_api_call
             c_percentage = returncur[3]  # percantage increase string, latest to average rate
 
-            big_mac_data = Currency_api_data_to_df.opener("Testing/Big_mac_data_modified")
+            big_mac_data = Currency_api_data_to_df.opener("API_Calls/final_database")
 
             try:
-                relevant_info = ""
-                for items in big_mac_data:
-                    if items["Country Name"] == destination_country:
-                        relevant_info=items
+                relevant_info = big_mac_data[destination_country]["Big Mac Data"]
 
-                print(relevant_info)
+                mac_price_local = big_mac_data[destination_country]["Big Mac Data"]["Local Big Mac Price"]
+                mac_price_eur = big_mac_data[destination_country]["Big Mac Data"]["Local Big Mac Price in Euro"]
+                mac_price_relative = big_mac_data[destination_country]["Big Mac Data"]["Relative Cost for BigMac to Germany"]
+
+            except KeyError:
+                mac_price_local = "No Data in Database"
+                mac_price_eur = "No Data in Database"
+                mac_price_relative = "No Data in Database"
             except ValueError as e:
+
                 print(e)
             return render_template("currency_rate.html", cur_main=c_main, cur_latest=c_latest, cur_average=c_average,
-                                   cur_percentage=c_percentage, relevant_info=relevant_info)
+                                   cur_percentage=c_percentage, mac_price_local=mac_price_local, mac_price_eur=mac_price_eur, mac_price_relative=mac_price_relative)
     else:
         return redirect(url_for("views.home"))
 
