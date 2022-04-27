@@ -69,7 +69,7 @@ def get_curcode (country):
 
 def get_curcode_2(country):
     try:
-        country_list = opener("API_Calls/Cleaned_IATA_V3_and_Curr")
+        country_list = opener("API_Calls/final_database")
         cur_code = country_list[country]["Currency_data"]["Currency Short"].upper()
         return cur_code
     except KeyError:
