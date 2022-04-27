@@ -1,0 +1,367 @@
+[
+  {
+    "Country Name": "United Arab Emirates",
+    "Local Big Mac Price": 17.0,
+    "Dollar Exchange Rate": 3.67305
+  },
+  {
+    "Country Name": "Argentina",
+    "Local Big Mac Price": 450.0,
+    "Dollar Exchange Rate": 105.0165
+  },
+  {
+    "Country Name": "Australia",
+    "Local Big Mac Price": 6.4,
+    "Dollar Exchange Rate": 1.41934568
+  },
+  {
+    "Country Name": "Austria",
+    "Local Big Mac Price": 3.8,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Azerbaijan",
+    "Local Big Mac Price": 4.5,
+    "Dollar Exchange Rate": 1.699
+  },
+  {
+    "Country Name": "Belgium",
+    "Local Big Mac Price": 4.55,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Bahrain",
+    "Local Big Mac Price": 1.5,
+    "Dollar Exchange Rate": 0.377
+  },
+  {
+    "Country Name": "Brazil",
+    "Local Big Mac Price": 22.9,
+    "Dollar Exchange Rate": 5.31
+  },
+  {
+    "Country Name": "Canada",
+    "Local Big Mac Price": 6.77,
+    "Dollar Exchange Rate": 1.2718
+  },
+  {
+    "Country Name": "Switzerland",
+    "Local Big Mac Price": 6.5,
+    "Dollar Exchange Rate": 0.93105
+  },
+  {
+    "Country Name": "Chile",
+    "Local Big Mac Price": 3100.0,
+    "Dollar Exchange Rate": 798.6
+  },
+  {
+    "Country Name": "China",
+    "Local Big Mac Price": 24.4,
+    "Dollar Exchange Rate": 6.36535
+  },
+  {
+    "Country Name": "Colombia",
+    "Local Big Mac Price": 12950.0,
+    "Dollar Exchange Rate": 3941.995
+  },
+  {
+    "Country Name": "Costa Rica",
+    "Local Big Mac Price": 2650.0,
+    "Dollar Exchange Rate": 642.585
+  },
+  {
+    "Country Name": "Czech Republic",
+    "Local Big Mac Price": 89.0,
+    "Dollar Exchange Rate": 21.6802
+  },
+  {
+    "Country Name": "Germany",
+    "Local Big Mac Price": 4.46,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Denmark",
+    "Local Big Mac Price": 32.0,
+    "Dollar Exchange Rate": 6.6373
+  },
+  {
+    "Country Name": "Egypt",
+    "Local Big Mac Price": 42.5,
+    "Dollar Exchange Rate": 15.71
+  },
+  {
+    "Country Name": "Spain",
+    "Local Big Mac Price": 4.58,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Estonia",
+    "Local Big Mac Price": 3.4,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Euro area",
+    "Local Big Mac Price": 4.42,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Finland",
+    "Local Big Mac Price": 4.95,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "France",
+    "Local Big Mac Price": 4.35,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Britain",
+    "Local Big Mac Price": 3.59,
+    "Dollar Exchange Rate": 0.74535087
+  },
+  {
+    "Country Name": "Greece",
+    "Local Big Mac Price": 3.4,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Guatemala",
+    "Local Big Mac Price": 26.0,
+    "Dollar Exchange Rate": 7.6898
+  },
+  {
+    "Country Name": "Hong Kong",
+    "Local Big Mac Price": 22.0,
+    "Dollar Exchange Rate": 7.79755
+  },
+  {
+    "Country Name": "Honduras",
+    "Local Big Mac Price": 89.0,
+    "Dollar Exchange Rate": 24.61415
+  },
+  {
+    "Country Name": "Croatia",
+    "Local Big Mac Price": 23.67,
+    "Dollar Exchange Rate": 6.715
+  },
+  {
+    "Country Name": "Hungary",
+    "Local Big Mac Price": 982.0,
+    "Dollar Exchange Rate": 317.51115
+  },
+  {
+    "Country Name": "Indonesia",
+    "Local Big Mac Price": 34000.0,
+    "Dollar Exchange Rate": 14382.0
+  },
+  {
+    "Country Name": "India",
+    "Local Big Mac Price": 190.0,
+    "Dollar Exchange Rate": 74.6225
+  },
+  {
+    "Country Name": "Ireland",
+    "Local Big Mac Price": 4.6,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Israel",
+    "Local Big Mac Price": 17.0,
+    "Dollar Exchange Rate": 3.17775
+  },
+  {
+    "Country Name": "Italy",
+    "Local Big Mac Price": 4.8,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Jordan",
+    "Local Big Mac Price": 2.12,
+    "Dollar Exchange Rate": 0.709
+  },
+  {
+    "Country Name": "Japan",
+    "Local Big Mac Price": 390.0,
+    "Dollar Exchange Rate": 115.225
+  },
+  {
+    "Country Name": "South Korea",
+    "Local Big Mac Price": 4600.0,
+    "Dollar Exchange Rate": 1205.5
+  },
+  {
+    "Country Name": "Kuwait",
+    "Local Big Mac Price": 1.25,
+    "Dollar Exchange Rate": 0.3029
+  },
+  {
+    "Country Name": "Lebanon",
+    "Local Big Mac Price": 70000.0,
+    "Dollar Exchange Rate": 21500.0
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Local Big Mac Price": 840.0,
+    "Dollar Exchange Rate": 202.41
+  },
+  {
+    "Country Name": "Lithuania",
+    "Local Big Mac Price": 2.9,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Latvia",
+    "Local Big Mac Price": 2.85,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Moldova",
+    "Local Big Mac Price": 52.0,
+    "Dollar Exchange Rate": 18.0
+  },
+  {
+    "Country Name": "Mexico",
+    "Local Big Mac Price": 69.0,
+    "Dollar Exchange Rate": 20.649
+  },
+  {
+    "Country Name": "Malaysia",
+    "Local Big Mac Price": 9.99,
+    "Dollar Exchange Rate": 4.1855
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Local Big Mac Price": 134.0,
+    "Dollar Exchange Rate": 35.455
+  },
+  {
+    "Country Name": "Netherlands",
+    "Local Big Mac Price": 4.4,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Norway",
+    "Local Big Mac Price": 57.0,
+    "Dollar Exchange Rate": 8.91605
+  },
+  {
+    "Country Name": "New Zealand",
+    "Local Big Mac Price": 7.0,
+    "Dollar Exchange Rate": 1.52264941
+  },
+  {
+    "Country Name": "Oman",
+    "Local Big Mac Price": 1.15,
+    "Dollar Exchange Rate": 0.385
+  },
+  {
+    "Country Name": "Pakistan",
+    "Local Big Mac Price": 590.0,
+    "Dollar Exchange Rate": 176.52
+  },
+  {
+    "Country Name": "Peru",
+    "Local Big Mac Price": 12.9,
+    "Dollar Exchange Rate": 3.83735
+  },
+  {
+    "Country Name": "Philippines",
+    "Local Big Mac Price": 142.0,
+    "Dollar Exchange Rate": 50.975
+  },
+  {
+    "Country Name": "Poland",
+    "Local Big Mac Price": 14.08,
+    "Dollar Exchange Rate": 4.094
+  },
+  {
+    "Country Name": "Portugal",
+    "Local Big Mac Price": 3.45,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Qatar",
+    "Local Big Mac Price": 13.0,
+    "Dollar Exchange Rate": 3.641
+  },
+  {
+    "Country Name": "Romania",
+    "Local Big Mac Price": 10.6,
+    "Dollar Exchange Rate": 4.4119
+  },
+  {
+    "Country Name": "Russia",
+    "Local Big Mac Price": 135.0,
+    "Dollar Exchange Rate": 77.4175
+  },
+  {
+    "Country Name": "Saudi Arabia",
+    "Local Big Mac Price": 15.0,
+    "Dollar Exchange Rate": 3.7519
+  },
+  {
+    "Country Name": "Singapore",
+    "Local Big Mac Price": 5.9,
+    "Dollar Exchange Rate": 1.35215
+  },
+  {
+    "Country Name": "Slovakia",
+    "Local Big Mac Price": 3.8,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Slovenia",
+    "Local Big Mac Price": 2.8,
+    "Dollar Exchange Rate": 0.89206066
+  },
+  {
+    "Country Name": "Sweden",
+    "Local Big Mac Price": 54.0,
+    "Dollar Exchange Rate": 9.3341
+  },
+  {
+    "Country Name": "Thailand",
+    "Local Big Mac Price": 128.0,
+    "Dollar Exchange Rate": 33.295
+  },
+  {
+    "Country Name": "Turkey",
+    "Local Big Mac Price": 24.99,
+    "Dollar Exchange Rate": 13.4155
+  },
+  {
+    "Country Name": "Taiwan",
+    "Local Big Mac Price": 75.0,
+    "Dollar Exchange Rate": 27.814
+  },
+  {
+    "Country Name": "Ukraine",
+    "Local Big Mac Price": 69.0,
+    "Dollar Exchange Rate": 28.3673
+  },
+  {
+    "Country Name": "Uruguay",
+    "Local Big Mac Price": 239.0,
+    "Dollar Exchange Rate": 44.0355
+  },
+  {
+    "Country Name": "United States",
+    "Local Big Mac Price": 5.81,
+    "Dollar Exchange Rate": 1.0
+  },
+  {
+    "Country Name": "Venezuela",
+    "Local Big Mac Price": 23.0,
+    "Dollar Exchange Rate": 4.5435
+  },
+  {
+    "Country Name": "Vietnam",
+    "Local Big Mac Price": 69000.0,
+    "Dollar Exchange Rate": 22650.0
+  },
+  {
+    "Country Name": "South Africa",
+    "Local Big Mac Price": 39.9,
+    "Dollar Exchange Rate": 15.47
+  }
+]
