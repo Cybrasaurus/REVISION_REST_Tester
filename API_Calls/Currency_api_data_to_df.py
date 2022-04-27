@@ -55,13 +55,13 @@ def to_df(amount_datasets: int):
 
     list_of_dicts = []
     for i in range(amount_datasets):
-        processing_dict = opener(f"test_res_{i}")
+        processing_dict = opener(f"data{i+1}")
         processing_dict = processing_dict["response"]["rates"]
         list_of_dicts.append(processing_dict)
 
     my_df = pd.DataFrame.from_records(list_of_dicts)
 
-    print(my_df)
+    #print(my_df)
     return my_df
 
 
@@ -73,7 +73,8 @@ def get_df_data(input_df, df_column):
     :return: the mean of said column, as a float
     """
     cur_mean = input_df[f"{df_column}"].mean()
-    print(cur_mean)
+    #print(cur_mean)
+    return cur_mean
 
 
 def get_column_heads(input_df):
@@ -91,18 +92,21 @@ def get_column_heads(input_df):
 if __name__ == "__main__":
 
     #TODO @Elisabet hier die anzahl and durchgängen, 7 um eine woche zu simulieren
-    number_of_iterations = 7
+ #   number_of_iterations = 7
 
 
     #load sample data
-    json_sample_data = opener("res2")
+ #   json_sample_data = opener("res2")
     #generate fake data from sample data
-    editer(number_of_iterations, json_sample_data)
+ #   editer(number_of_iterations, json_sample_data)
     #generate pandas dataframe
-    numberdf = to_df(number_of_iterations)
+#    numberdf = to_df(number_of_iterations)
 
     #TODO: 'ADA" durch beliebigen anderen code ersetzten, liste an codes wird mit get_column_heads() printed
     #get average of certain df column
-    get_df_data(numberdf, "ADA")
+#    get_df_data(numberdf, "ADA")
     #get head of all df columns
-    get_column_heads(numberdf)
+#    get_column_heads(numberdf)
+
+    my_dict = {'success': True, 'data': {'AMS': {'1': {'price': 56251, 'airline': 'EY', 'flight_number': 431, 'departure_at': '2022-05-20T20:00:00+07:00', 'return_at': '2022-06-01T11:40:00+02:00', 'expires_at': '2022-04-24T15:38:51Z'}, '2': {'price': 70062, 'airline': 'PG', 'flight_number': 272, 'departure_at': '2022-04-24T10:20:00+07:00', 'return_at': '2022-04-27T11:40:00+02:00', 'expires_at': '2022-04-24T15:38:51Z'}}}, 'currency': 'RUB'}
+    saver("flightdata", my_dict)

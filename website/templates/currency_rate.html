@@ -4,38 +4,71 @@
 {% block content %}
 
 <style>
+
+    .myDiv {
+      border-style: solid;
+      border-width: 2px;
+      height: 80px;
+      background-color: #f0f0f0;
+      border-radius:10px;
+      font-size: 18pt;
+      padding: 10px;
+      font-family: andale mono;
+
+      }
+
     table, th, td {
       border: 2px solid black;
       padding: 15px;
+
     }
+
     </style>
 
 
 <h1> Currency Exchange Rate Page</h1><br>
-<table align="top" style="width:100%; height:100%">
+
+<div class="myDiv">
+    1 Euro = {{cur_latest}} {{cur_main["currency_name"]}}
+</div>
+<br>
+<br>
+<table align="top" style="width:100%; height:100%; border-collapse: separate; border-spacing: 5px 8px; border-radius:10px; ">
+
     <tr style="width:80%; ">
-        <th style = "width: 25%">currency name</th>
+        <th style = "width: 25%">Currency name</th>
         <td style="vertical-align: middle;">{{cur_main["currency_name"]}}</td>
     </tr>
     <tr>
-        <th>currency code</th>
+        <th>Currency code</th>
         <td>{{cur_main["currency_code"]}}</td>
     </tr>
     <tr>
-        <th>countries</th>
+        <th>Other countries with the same currency</th>
         <td id = "country">blabla</td>
         <script>var coun = '{{cur_main["countries"]}}'
             var ncoun = coun
                 .replace("[&#39;", "")
                 .replace("&#39;]", "")
                 .replaceAll("&#39;", "") 
-            console.log (ncoun + "   blabla    " + coun )
             document.getElementById("country").innerHTML = ncoun;
         </script> <noscript></noscript>
     </tr>
     <tr>
         <th>latest rate of currency to base EUR</th>
         <td>{{cur_latest}}</tb>
+    </tr>
+    <tr>
+        <th>average rate in last 7 days</th>
+        <td>{{cur_average}}</tb>
+    </tr>
+    <tr>
+        <th>percentage increase to average</th>
+        <td>{{cur_percentage}}</tb>
+    </tr>
+    <tr>
+        <th>Big Mac Data</th>
+        <td>{{relevant_info}}</td>
     </tr>
 </table>
 

@@ -1,0 +1,1 @@
+from .Big_mac_data import get_flight_info
