@@ -1,0 +1,1426 @@
+{
+  "Afghanistan": {
+    "EN_Name": "Afghanistan",
+    "DE_Name": "Afghanistan",
+    "alpha3": "afg",
+    "Currency Name": "afghani",
+    "Currency Short": "afn",
+    "Currency Code": "971"
+  },
+  "Albania": {
+    "EN_Name": "Albania",
+    "DE_Name": "Albanien",
+    "alpha3": "alb",
+    "Currency Name": "lek",
+    "Currency Short": "all",
+    "Currency Code": "8"
+  },
+  "Algeria": {
+    "EN_Name": "Algeria",
+    "DE_Name": "Algerien",
+    "alpha3": "dza",
+    "Currency Name": "algerischer dinar",
+    "Currency Short": "dzd",
+    "Currency Code": "12"
+  },
+  "Andorra": {
+    "EN_Name": "Andorra",
+    "DE_Name": "Andorra",
+    "alpha3": "and",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Angola": {
+    "EN_Name": "Angola",
+    "DE_Name": "Angola",
+    "alpha3": "ago",
+    "Currency Name": "kwanza",
+    "Currency Short": "aoa",
+    "Currency Code": "973"
+  },
+  "Antigua and Barbuda": {
+    "EN_Name": "Antigua and Barbuda",
+    "DE_Name": "Antigua und Barbuda",
+    "alpha3": "atg",
+    "Currency Name": "ostkaribischer dollar",
+    "Currency Short": "xcd",
+    "Currency Code": "951"
+  },
+  "Argentina": {
+    "EN_Name": "Argentina",
+    "DE_Name": "Argentinien",
+    "alpha3": "arg",
+    "Currency Name": "argentinischer peso",
+    "Currency Short": "ars",
+    "Currency Code": "32"
+  },
+  "Armenia": {
+    "EN_Name": "Armenia",
+    "DE_Name": "Armenien",
+    "alpha3": "arm",
+    "Currency Name": "armenischer dram",
+    "Currency Short": "amd",
+    "Currency Code": "51"
+  },
+  "Australia": {
+    "EN_Name": "Australia",
+    "DE_Name": "Australien",
+    "alpha3": "aus",
+    "Currency Name": "australischer dollar",
+    "Currency Short": "aud",
+    "Currency Code": "36"
+  },
+  "Austria": {
+    "EN_Name": "Austria",
+    "DE_Name": "Oesterreich",
+    "alpha3": "aut",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Azerbaijan": {
+    "EN_Name": "Azerbaijan",
+    "DE_Name": "Aserbaidschan",
+    "alpha3": "aze",
+    "Currency Name": "aserbaidschanischer manat",
+    "Currency Short": "azn",
+    "Currency Code": "944"
+  },
+  "Bahamas": {
+    "EN_Name": "Bahamas",
+    "DE_Name": "Bahamas",
+    "alpha3": "bhs"
+  },
+  "Bahrain": {
+    "EN_Name": "Bahrain",
+    "DE_Name": "Bahrain",
+    "alpha3": "bhr",
+    "Currency Name": "bahrainischer dinar",
+    "Currency Short": "bhd",
+    "Currency Code": "48"
+  },
+  "Bangladesh": {
+    "EN_Name": "Bangladesh",
+    "DE_Name": "Bangladesch",
+    "alpha3": "bgd",
+    "Currency Name": "taka",
+    "Currency Short": "bdt",
+    "Currency Code": "50"
+  },
+  "Barbados": {
+    "EN_Name": "Barbados",
+    "DE_Name": "Barbados",
+    "alpha3": "brb",
+    "Currency Name": "barbados-dollar",
+    "Currency Short": "bbd",
+    "Currency Code": "52"
+  },
+  "Belarus": {
+    "EN_Name": "Belarus",
+    "DE_Name": "Belarus",
+    "alpha3": "blr"
+  },
+  "Belgium": {
+    "EN_Name": "Belgium",
+    "DE_Name": "Belgien",
+    "alpha3": "bel",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Belize": {
+    "EN_Name": "Belize",
+    "DE_Name": "Belize",
+    "alpha3": "blz",
+    "Currency Name": "belize-dollar",
+    "Currency Short": "bzd",
+    "Currency Code": "84"
+  },
+  "Benin": {
+    "EN_Name": "Benin",
+    "DE_Name": "Benin",
+    "alpha3": "ben",
+    "Currency Name": "cfa franc bceao",
+    "Currency Short": "xof",
+    "Currency Code": "952"
+  },
+  "Bhutan": {
+    "EN_Name": "Bhutan",
+    "DE_Name": "Bhutan",
+    "alpha3": "btn",
+    "Currency Name": "indische rupie",
+    "Currency Short": "inr",
+    "Currency Code": "356"
+  },
+  "Bolivia (Plurinational State of)": {
+    "EN_Name": "Bolivia (Plurinational State of)",
+    "DE_Name": "Bolivien",
+    "alpha3": "bol"
+  },
+  "Bosnia and Herzegovina": {
+    "EN_Name": "Bosnia and Herzegovina",
+    "DE_Name": "Bosnien und Herzegowina",
+    "alpha3": "bih",
+    "Currency Name": "konvertible mark",
+    "Currency Short": "bam",
+    "Currency Code": "977"
+  },
+  "Botswana": {
+    "EN_Name": "Botswana",
+    "DE_Name": "Botswana",
+    "alpha3": "bwa",
+    "Currency Name": "pula",
+    "Currency Short": "bwp",
+    "Currency Code": "72"
+  },
+  "Brazil": {
+    "EN_Name": "Brazil",
+    "DE_Name": "Brasilien",
+    "alpha3": "bra",
+    "Currency Name": "brasilianischer real",
+    "Currency Short": "brl",
+    "Currency Code": "986"
+  },
+  "Brunei Darussalam": {
+    "EN_Name": "Brunei Darussalam",
+    "DE_Name": "Brunei",
+    "alpha3": "brn"
+  },
+  "Bulgaria": {
+    "EN_Name": "Bulgaria",
+    "DE_Name": "Bulgarien",
+    "alpha3": "bgr",
+    "Currency Name": "bulgarischer lev",
+    "Currency Short": "bgn",
+    "Currency Code": "975"
+  },
+  "Burkina Faso": {
+    "EN_Name": "Burkina Faso",
+    "DE_Name": "Burkina Faso",
+    "alpha3": "bfa",
+    "Currency Name": "cfa franc bceao",
+    "Currency Short": "xof",
+    "Currency Code": "952"
+  },
+  "Burundi": {
+    "EN_Name": "Burundi",
+    "DE_Name": "Burundi",
+    "alpha3": "bdi",
+    "Currency Name": "burundi-franc",
+    "Currency Short": "bif",
+    "Currency Code": "108"
+  },
+  "Cabo Verde": {
+    "EN_Name": "Cabo Verde",
+    "DE_Name": "Kap Verde",
+    "alpha3": "cpv",
+    "Currency Name": "kap verde escudo",
+    "Currency Short": "cve",
+    "Currency Code": "132"
+  },
+  "Cambodia": {
+    "EN_Name": "Cambodia",
+    "DE_Name": "Kambodscha",
+    "alpha3": "khm",
+    "Currency Name": "riel",
+    "Currency Short": "khr",
+    "Currency Code": "116"
+  },
+  "Cameroon": {
+    "EN_Name": "Cameroon",
+    "DE_Name": "Kamerun",
+    "alpha3": "cmr",
+    "Currency Name": "cfa franc beac",
+    "Currency Short": "xaf",
+    "Currency Code": "950"
+  },
+  "Canada": {
+    "EN_Name": "Canada",
+    "DE_Name": "Kanada",
+    "alpha3": "can",
+    "Currency Name": "kanadischer dollar",
+    "Currency Short": "cad",
+    "Currency Code": "124"
+  },
+  "Central African Republic": {
+    "EN_Name": "Central African Republic",
+    "DE_Name": "Zentralafrikanische Republik",
+    "alpha3": "caf"
+  },
+  "Chad": {
+    "EN_Name": "Chad",
+    "DE_Name": "Tschad",
+    "alpha3": "tcd",
+    "Currency Name": "cfa franc beac",
+    "Currency Short": "xaf",
+    "Currency Code": "950"
+  },
+  "Chile": {
+    "EN_Name": "Chile",
+    "DE_Name": "Chile",
+    "alpha3": "chl",
+    "Currency Name": "chilenischer peso",
+    "Currency Short": "clp",
+    "Currency Code": "152"
+  },
+  "China": {
+    "EN_Name": "China",
+    "DE_Name": "Volksrepublik China",
+    "alpha3": "chn"
+  },
+  "Colombia": {
+    "EN_Name": "Colombia",
+    "DE_Name": "Kolumbien",
+    "alpha3": "col",
+    "Currency Name": "unidad de valor real",
+    "Currency Short": "cou",
+    "Currency Code": "970"
+  },
+  "Comoros": {
+    "EN_Name": "Comoros",
+    "DE_Name": "Komoren",
+    "alpha3": "com"
+  },
+  "Congo": {
+    "EN_Name": "Congo",
+    "DE_Name": "Kongo, Republik",
+    "alpha3": "cog"
+  },
+  "Congo, Democratic Republic of the": {
+    "EN_Name": "Congo, Democratic Republic of the",
+    "DE_Name": "Kongo, Demokratische Republik",
+    "alpha3": "cod"
+  },
+  "Costa Rica": {
+    "EN_Name": "Costa Rica",
+    "DE_Name": "Costa Rica",
+    "alpha3": "cri",
+    "Currency Name": "costa rican colon",
+    "Currency Short": "crc",
+    "Currency Code": "188"
+  },
+  "Cote d'Ivoire": {
+    "EN_Name": "Cote d'Ivoire",
+    "DE_Name": "Elfenbeinkueste",
+    "alpha3": "civ"
+  },
+  "Croatia": {
+    "EN_Name": "Croatia",
+    "DE_Name": "Kroatien",
+    "alpha3": "hrv",
+    "Currency Name": "kuna",
+    "Currency Short": "hrk",
+    "Currency Code": "191"
+  },
+  "Cuba": {
+    "EN_Name": "Cuba",
+    "DE_Name": "Kuba",
+    "alpha3": "cub",
+    "Currency Name": "kubanischer peso",
+    "Currency Short": "cup",
+    "Currency Code": "192"
+  },
+  "Cyprus": {
+    "EN_Name": "Cyprus",
+    "DE_Name": "Zypern",
+    "alpha3": "cyp",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Czechia": {
+    "EN_Name": "Czechia",
+    "DE_Name": "Tschechien",
+    "alpha3": "cze"
+  },
+  "Denmark": {
+    "EN_Name": "Denmark",
+    "DE_Name": "Dae4nemark",
+    "alpha3": "dnk"
+  },
+  "Djibouti": {
+    "EN_Name": "Djibouti",
+    "DE_Name": "Dschibuti",
+    "alpha3": "dji",
+    "Currency Name": "dschibuti-franc",
+    "Currency Short": "djf",
+    "Currency Code": "262"
+  },
+  "Dominica": {
+    "EN_Name": "Dominica",
+    "DE_Name": "Dominica",
+    "alpha3": "dma"
+  },
+  "Dominican Republic": {
+    "EN_Name": "Dominican Republic",
+    "DE_Name": "Dominikanische Republik",
+    "alpha3": "dom"
+  },
+  "Ecuador": {
+    "EN_Name": "Ecuador",
+    "DE_Name": "Ecuador",
+    "alpha3": "ecu",
+    "Currency Name": "us dollar",
+    "Currency Short": "usd",
+    "Currency Code": "840"
+  },
+  "Egypt": {
+    "EN_Name": "Egypt",
+    "DE_Name": "Aegypten",
+    "alpha3": "egy",
+    "Currency Name": "aegyptisches pfund",
+    "Currency Short": "egp",
+    "Currency Code": "818"
+  },
+  "El Salvador": {
+    "EN_Name": "El Salvador",
+    "DE_Name": "El Salvador",
+    "alpha3": "slv",
+    "Currency Name": "us dollar",
+    "Currency Short": "usd",
+    "Currency Code": "840"
+  },
+  "Equatorial Guinea": {
+    "EN_Name": "Equatorial Guinea",
+    "DE_Name": "Aequatorialguinea",
+    "alpha3": "gnq",
+    "Currency Name": "cfa franc beac",
+    "Currency Short": "xaf",
+    "Currency Code": "950"
+  },
+  "Eritrea": {
+    "EN_Name": "Eritrea",
+    "DE_Name": "Eritrea",
+    "alpha3": "eri",
+    "Currency Name": "nakfa",
+    "Currency Short": "ern",
+    "Currency Code": "232"
+  },
+  "Estonia": {
+    "EN_Name": "Estonia",
+    "DE_Name": "Estland",
+    "alpha3": "est",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Eswatini": {
+    "EN_Name": "Eswatini",
+    "DE_Name": "Eswatini",
+    "alpha3": "swz"
+  },
+  "Ethiopia": {
+    "EN_Name": "Ethiopia",
+    "DE_Name": "Aethiopien",
+    "alpha3": "eth",
+    "Currency Name": "aethiopischer birr",
+    "Currency Short": "etb",
+    "Currency Code": "230"
+  },
+  "Fiji": {
+    "EN_Name": "Fiji",
+    "DE_Name": "Fidschi",
+    "alpha3": "fji",
+    "Currency Name": "fidschi dollar",
+    "Currency Short": "fjd",
+    "Currency Code": "242"
+  },
+  "Finland": {
+    "EN_Name": "Finland",
+    "DE_Name": "Finnland",
+    "alpha3": "fin",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "France": {
+    "EN_Name": "France",
+    "DE_Name": "Frankreich",
+    "alpha3": "fra",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Gabon": {
+    "EN_Name": "Gabon",
+    "DE_Name": "Gabun",
+    "alpha3": "gab"
+  },
+  "Gambia": {
+    "EN_Name": "Gambia",
+    "DE_Name": "Gambia",
+    "alpha3": "gmb",
+    "Currency Name": "dalasi",
+    "Currency Short": "gmd",
+    "Currency Code": "270"
+  },
+  "Georgia": {
+    "EN_Name": "Georgia",
+    "DE_Name": "Georgien",
+    "alpha3": "geo",
+    "Currency Name": "lari",
+    "Currency Short": "gel",
+    "Currency Code": "981"
+  },
+  "Germany": {
+    "EN_Name": "Germany",
+    "DE_Name": "Deutschland",
+    "alpha3": "deu",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Ghana": {
+    "EN_Name": "Ghana",
+    "DE_Name": "Ghana",
+    "alpha3": "gha",
+    "Currency Name": "ghana cedi",
+    "Currency Short": "ghs",
+    "Currency Code": "936"
+  },
+  "Greece": {
+    "EN_Name": "Greece",
+    "DE_Name": "Griechenland",
+    "alpha3": "grc",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Grenada": {
+    "EN_Name": "Grenada",
+    "DE_Name": "Grenada",
+    "alpha3": "grd",
+    "Currency Name": "ostkaribischer dollar",
+    "Currency Short": "xcd",
+    "Currency Code": "951"
+  },
+  "Guatemala": {
+    "EN_Name": "Guatemala",
+    "DE_Name": "Guatemala",
+    "alpha3": "gtm",
+    "Currency Name": "quetzal",
+    "Currency Short": "gtq",
+    "Currency Code": "320"
+  },
+  "Guinea": {
+    "EN_Name": "Guinea",
+    "DE_Name": "Guinea",
+    "alpha3": "gin",
+    "Currency Name": "guinea franc",
+    "Currency Short": "gnf",
+    "Currency Code": "324"
+  },
+  "Guinea-Bissau": {
+    "EN_Name": "Guinea-Bissau",
+    "DE_Name": "Guinea-Bissau",
+    "alpha3": "gnb",
+    "Currency Name": "cfa franc bceao",
+    "Currency Short": "xof",
+    "Currency Code": "952"
+  },
+  "Guyana": {
+    "EN_Name": "Guyana",
+    "DE_Name": "Guyana",
+    "alpha3": "guy",
+    "Currency Name": "guyana dollar",
+    "Currency Short": "gyd",
+    "Currency Code": "328"
+  },
+  "Haiti": {
+    "EN_Name": "Haiti",
+    "DE_Name": "Haiti",
+    "alpha3": "hti",
+    "Currency Name": "us dollar",
+    "Currency Short": "usd",
+    "Currency Code": "840"
+  },
+  "Honduras": {
+    "EN_Name": "Honduras",
+    "DE_Name": "Honduras",
+    "alpha3": "hnd",
+    "Currency Name": "lempira",
+    "Currency Short": "hnl",
+    "Currency Code": "340"
+  },
+  "Hungary": {
+    "EN_Name": "Hungary",
+    "DE_Name": "Ungarn",
+    "alpha3": "hun",
+    "Currency Name": "forint",
+    "Currency Short": "huf",
+    "Currency Code": "348"
+  },
+  "Iceland": {
+    "EN_Name": "Iceland",
+    "DE_Name": "Island",
+    "alpha3": "isl",
+    "Currency Name": "islaendische krone",
+    "Currency Short": "isk",
+    "Currency Code": "352"
+  },
+  "India": {
+    "EN_Name": "India",
+    "DE_Name": "Indien",
+    "alpha3": "ind",
+    "Currency Name": "indische rupie",
+    "Currency Short": "inr",
+    "Currency Code": "356"
+  },
+  "Indonesia": {
+    "EN_Name": "Indonesia",
+    "DE_Name": "Indonesien",
+    "alpha3": "idn",
+    "Currency Name": "rupiah",
+    "Currency Short": "idr",
+    "Currency Code": "360"
+  },
+  "Iran (Islamic Republic of)": {
+    "EN_Name": "Iran (Islamic Republic of)",
+    "DE_Name": "Iran",
+    "alpha3": "irn",
+    "Currency Name": "iranischer rial",
+    "Currency Short": "irr",
+    "Currency Code": "364"
+  },
+  "Iraq": {
+    "EN_Name": "Iraq",
+    "DE_Name": "Irak",
+    "alpha3": "irq",
+    "Currency Name": "irakischer dinar",
+    "Currency Short": "iqd",
+    "Currency Code": "368"
+  },
+  "Ireland": {
+    "EN_Name": "Ireland",
+    "DE_Name": "Irland",
+    "alpha3": "irl",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Israel": {
+    "EN_Name": "Israel",
+    "DE_Name": "Israel",
+    "alpha3": "isr",
+    "Currency Name": "neuer israelischer schekel",
+    "Currency Short": "ils",
+    "Currency Code": "376"
+  },
+  "Italy": {
+    "EN_Name": "Italy",
+    "DE_Name": "Italien",
+    "alpha3": "ita",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Jamaica": {
+    "EN_Name": "Jamaica",
+    "DE_Name": "Jamaika",
+    "alpha3": "jam",
+    "Currency Name": "jamaikanischer dollar",
+    "Currency Short": "jmd",
+    "Currency Code": "388"
+  },
+  "Japan": {
+    "EN_Name": "Japan",
+    "DE_Name": "Japan",
+    "alpha3": "jpn",
+    "Currency Name": "yen",
+    "Currency Short": "jpy",
+    "Currency Code": "392"
+  },
+  "Jordan": {
+    "EN_Name": "Jordan",
+    "DE_Name": "Jordanien",
+    "alpha3": "jor"
+  },
+  "Kazakhstan": {
+    "EN_Name": "Kazakhstan",
+    "DE_Name": "Kasachstan",
+    "alpha3": "kaz",
+    "Currency Name": "tenge",
+    "Currency Short": "kzt",
+    "Currency Code": "398"
+  },
+  "Kenya": {
+    "EN_Name": "Kenya",
+    "DE_Name": "Kenia",
+    "alpha3": "ken",
+    "Currency Name": "kenia-schilling",
+    "Currency Short": "kes",
+    "Currency Code": "404"
+  },
+  "Kiribati": {
+    "EN_Name": "Kiribati",
+    "DE_Name": "Kiribati",
+    "alpha3": "kir",
+    "Currency Name": "australischer dollar",
+    "Currency Short": "aud",
+    "Currency Code": "36"
+  },
+  "Korea (Democratic People's Republic of)": {
+    "EN_Name": "Korea (Democratic People's Republic of)",
+    "DE_Name": "Korea, Nord",
+    "alpha3": "prk"
+  },
+  "South Korea": {
+    "EN_Name": "South Korea",
+    "DE_Name": "Suedkorea",
+    "alpha3": "kor"
+  },
+  "Kuwait": {
+    "EN_Name": "Kuwait",
+    "DE_Name": "Kuwait",
+    "alpha3": "kwt",
+    "Currency Name": "kuwaitischer dinar",
+    "Currency Short": "kwd",
+    "Currency Code": "414"
+  },
+  "Kyrgyzstan": {
+    "EN_Name": "Kyrgyzstan",
+    "DE_Name": "Kirgisistan",
+    "alpha3": "kgz",
+    "Currency Name": "som",
+    "Currency Short": "kgs",
+    "Currency Code": "417"
+  },
+  "Lao People's Democratic Republic": {
+    "EN_Name": "Lao People's Democratic Republic",
+    "DE_Name": "Laos",
+    "alpha3": "lao",
+    "Currency Name": "kip",
+    "Currency Short": "lak",
+    "Currency Code": "418"
+  },
+  "Latvia": {
+    "EN_Name": "Latvia",
+    "DE_Name": "Lettland",
+    "alpha3": "lva",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Lebanon": {
+    "EN_Name": "Lebanon",
+    "DE_Name": "Libanon",
+    "alpha3": "lbn",
+    "Currency Name": "libanesisches pfund",
+    "Currency Short": "lbp",
+    "Currency Code": "422"
+  },
+  "Lesotho": {
+    "EN_Name": "Lesotho",
+    "DE_Name": "Lesotho",
+    "alpha3": "lso",
+    "Currency Name": "rand",
+    "Currency Short": "zar",
+    "Currency Code": "710"
+  },
+  "Liberia": {
+    "EN_Name": "Liberia",
+    "DE_Name": "Liberia",
+    "alpha3": "lbr",
+    "Currency Name": "liberianischer dollar",
+    "Currency Short": "lrd",
+    "Currency Code": "430"
+  },
+  "Libya": {
+    "EN_Name": "Libya",
+    "DE_Name": "Libyen",
+    "alpha3": "lby",
+    "Currency Name": "libyscher dinar",
+    "Currency Short": "lyd",
+    "Currency Code": "434"
+  },
+  "Liechtenstein": {
+    "EN_Name": "Liechtenstein",
+    "DE_Name": "Liechtenstein",
+    "alpha3": "lie",
+    "Currency Name": "schweizer franken",
+    "Currency Short": "chf",
+    "Currency Code": "756"
+  },
+  "Lithuania": {
+    "EN_Name": "Lithuania",
+    "DE_Name": "Litauen",
+    "alpha3": "ltu",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Luxembourg": {
+    "EN_Name": "Luxembourg",
+    "DE_Name": "Luxemburg",
+    "alpha3": "lux",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Madagascar": {
+    "EN_Name": "Madagascar",
+    "DE_Name": "Madagaskar",
+    "alpha3": "mdg",
+    "Currency Name": "madagaskar ariary",
+    "Currency Short": "mga",
+    "Currency Code": "969"
+  },
+  "Malawi": {
+    "EN_Name": "Malawi",
+    "DE_Name": "Malawi",
+    "alpha3": "mwi",
+    "Currency Name": "kwacha",
+    "Currency Short": "mwk",
+    "Currency Code": "454"
+  },
+  "Malaysia": {
+    "EN_Name": "Malaysia",
+    "DE_Name": "Malaysia",
+    "alpha3": "mys"
+  },
+  "Maldives": {
+    "EN_Name": "Maldives",
+    "DE_Name": "Malediven",
+    "alpha3": "mdv",
+    "Currency Name": "rufiyaa",
+    "Currency Short": "mvr",
+    "Currency Code": "462"
+  },
+  "Mali": {
+    "EN_Name": "Mali",
+    "DE_Name": "Mali",
+    "alpha3": "mli",
+    "Currency Name": "cfa franc bceao",
+    "Currency Short": "xof",
+    "Currency Code": "952"
+  },
+  "Malta": {
+    "EN_Name": "Malta",
+    "DE_Name": "Malta",
+    "alpha3": "mlt",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Marshall Islands": {
+    "EN_Name": "Marshall Islands",
+    "DE_Name": "Marshallinseln",
+    "alpha3": "mhl"
+  },
+  "Mauritania": {
+    "EN_Name": "Mauritania",
+    "DE_Name": "Mauretanien",
+    "alpha3": "mrt"
+  },
+  "Mauritius": {
+    "EN_Name": "Mauritius",
+    "DE_Name": "Mauritius",
+    "alpha3": "mus",
+    "Currency Name": "mauritius-rupie",
+    "Currency Short": "mur",
+    "Currency Code": "480"
+  },
+  "Mexico": {
+    "EN_Name": "Mexico",
+    "DE_Name": "Mexiko",
+    "alpha3": "mex",
+    "Currency Name": "mexikanische unidad de inversion (udi)",
+    "Currency Short": "mxv",
+    "Currency Code": "979"
+  },
+  "Micronesia (Federated States of)": {
+    "EN_Name": "Micronesia (Federated States of)",
+    "DE_Name": "Mikronesien",
+    "alpha3": "fsm"
+  },
+  "Moldova, Republic of": {
+    "EN_Name": "Moldova, Republic of",
+    "DE_Name": "Moldau",
+    "alpha3": "mda"
+  },
+  "Monaco": {
+    "EN_Name": "Monaco",
+    "DE_Name": "Monaco",
+    "alpha3": "mco",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Mongolia": {
+    "EN_Name": "Mongolia",
+    "DE_Name": "Mongolei",
+    "alpha3": "mng",
+    "Currency Name": "tugrik",
+    "Currency Short": "mnt",
+    "Currency Code": "496"
+  },
+  "Montenegro": {
+    "EN_Name": "Montenegro",
+    "DE_Name": "Montenegro",
+    "alpha3": "mne",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Morocco": {
+    "EN_Name": "Morocco",
+    "DE_Name": "Marokko",
+    "alpha3": "mar",
+    "Currency Name": "marokkanischer dirham",
+    "Currency Short": "mad",
+    "Currency Code": "504"
+  },
+  "Mozambique": {
+    "EN_Name": "Mozambique",
+    "DE_Name": "Mosambik",
+    "alpha3": "moz",
+    "Currency Name": "mosambik metical",
+    "Currency Short": "mzn",
+    "Currency Code": "943"
+  },
+  "Myanmar": {
+    "EN_Name": "Myanmar",
+    "DE_Name": "Myanmar",
+    "alpha3": "mmr",
+    "Currency Name": "kyat",
+    "Currency Short": "mmk",
+    "Currency Code": "104"
+  },
+  "Namibia": {
+    "EN_Name": "Namibia",
+    "DE_Name": "Namibia",
+    "alpha3": "nam"
+  },
+  "Nauru": {
+    "EN_Name": "Nauru",
+    "DE_Name": "Nauru",
+    "alpha3": "nru",
+    "Currency Name": "australischer dollar",
+    "Currency Short": "aud",
+    "Currency Code": "36"
+  },
+  "Nepal": {
+    "EN_Name": "Nepal",
+    "DE_Name": "Nepal",
+    "alpha3": "npl",
+    "Currency Name": "nepalesische rupie",
+    "Currency Short": "npr",
+    "Currency Code": "524"
+  },
+  "Netherlands": {
+    "EN_Name": "Netherlands",
+    "DE_Name": "Niederlande",
+    "alpha3": "nld",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "New Zealand": {
+    "EN_Name": "New Zealand",
+    "DE_Name": "Neuseeland",
+    "alpha3": "nzl",
+    "Currency Name": "neuseeland-dollar",
+    "Currency Short": "nzd",
+    "Currency Code": "554"
+  },
+  "Nicaragua": {
+    "EN_Name": "Nicaragua",
+    "DE_Name": "Nicaragua",
+    "alpha3": "nic",
+    "Currency Name": "cordoba oro",
+    "Currency Short": "nio",
+    "Currency Code": "558"
+  },
+  "Niger": {
+    "EN_Name": "Niger",
+    "DE_Name": "Niger",
+    "alpha3": "ner"
+  },
+  "Nigeria": {
+    "EN_Name": "Nigeria",
+    "DE_Name": "Nigeria",
+    "alpha3": "nga",
+    "Currency Name": "naira",
+    "Currency Short": "ngn",
+    "Currency Code": "566"
+  },
+  "North Macedonia": {
+    "EN_Name": "North Macedonia",
+    "DE_Name": "Nordmazedonien",
+    "alpha3": "mkd"
+  },
+  "Norway": {
+    "EN_Name": "Norway",
+    "DE_Name": "Norwegen",
+    "alpha3": "nor",
+    "Currency Name": "norwegische krone",
+    "Currency Short": "nok",
+    "Currency Code": "578"
+  },
+  "Oman": {
+    "EN_Name": "Oman",
+    "DE_Name": "Oman",
+    "alpha3": "omn",
+    "Currency Name": "rial omani",
+    "Currency Short": "omr",
+    "Currency Code": "512"
+  },
+  "Pakistan": {
+    "EN_Name": "Pakistan",
+    "DE_Name": "Pakistan",
+    "alpha3": "pak",
+    "Currency Name": "pakistanische rupie",
+    "Currency Short": "pkr",
+    "Currency Code": "586"
+  },
+  "Palau": {
+    "EN_Name": "Palau",
+    "DE_Name": "Palau",
+    "alpha3": "plw",
+    "Currency Name": "us dollar",
+    "Currency Short": "usd",
+    "Currency Code": "840"
+  },
+  "Panama": {
+    "EN_Name": "Panama",
+    "DE_Name": "Panama",
+    "alpha3": "pan",
+    "Currency Name": "us dollar",
+    "Currency Short": "usd",
+    "Currency Code": "840"
+  },
+  "Papua New Guinea": {
+    "EN_Name": "Papua New Guinea",
+    "DE_Name": "Papua-Neuguinea",
+    "alpha3": "png"
+  },
+  "Paraguay": {
+    "EN_Name": "Paraguay",
+    "DE_Name": "Paraguay",
+    "alpha3": "pry",
+    "Currency Name": "guarani",
+    "Currency Short": "pyg",
+    "Currency Code": "600"
+  },
+  "Peru": {
+    "EN_Name": "Peru",
+    "DE_Name": "Peru",
+    "alpha3": "per",
+    "Currency Name": "nuevo sol",
+    "Currency Short": "pen",
+    "Currency Code": "604"
+  },
+  "Philippines": {
+    "EN_Name": "Philippines",
+    "DE_Name": "Philippinen",
+    "alpha3": "phl"
+  },
+  "Poland": {
+    "EN_Name": "Poland",
+    "DE_Name": "Polen",
+    "alpha3": "pol",
+    "Currency Name": "zloty",
+    "Currency Short": "pln",
+    "Currency Code": "985"
+  },
+  "Portugal": {
+    "EN_Name": "Portugal",
+    "DE_Name": "Portugal",
+    "alpha3": "prt",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Qatar": {
+    "EN_Name": "Qatar",
+    "DE_Name": "Katar",
+    "alpha3": "qat",
+    "Currency Name": "katar-riyal",
+    "Currency Short": "qar",
+    "Currency Code": "634"
+  },
+  "Romania": {
+    "EN_Name": "Romania",
+    "DE_Name": "Rumaenien",
+    "alpha3": "rou",
+    "Currency Name": "rumaenischer leu",
+    "Currency Short": "ron",
+    "Currency Code": "946"
+  },
+  "Russian Federation": {
+    "EN_Name": "Russian Federation",
+    "DE_Name": "Russland",
+    "alpha3": "rus",
+    "Currency Name": "russischer rubel",
+    "Currency Short": "rub",
+    "Currency Code": "643"
+  },
+  "Rwanda": {
+    "EN_Name": "Rwanda",
+    "DE_Name": "Ruanda",
+    "alpha3": "rwa"
+  },
+  "Saint Kitts and Nevis": {
+    "EN_Name": "Saint Kitts and Nevis",
+    "DE_Name": "St. Kitts und Nevis",
+    "alpha3": "kna",
+    "Currency Name": "ostkaribischer dollar",
+    "Currency Short": "xcd",
+    "Currency Code": "951"
+  },
+  "Saint Lucia": {
+    "EN_Name": "Saint Lucia",
+    "DE_Name": "St. Lucia",
+    "alpha3": "lca",
+    "Currency Name": "ostkaribischer dollar",
+    "Currency Short": "xcd",
+    "Currency Code": "951"
+  },
+  "Saint Vincent and the Grenadines": {
+    "EN_Name": "Saint Vincent and the Grenadines",
+    "DE_Name": "St. Vincent und die Grenadinen",
+    "alpha3": "vct",
+    "Currency Name": "ostkaribischer dollar",
+    "Currency Short": "xcd",
+    "Currency Code": "951"
+  },
+  "Samoa": {
+    "EN_Name": "Samoa",
+    "DE_Name": "Samoa",
+    "alpha3": "wsm",
+    "Currency Name": "tala",
+    "Currency Short": "wst",
+    "Currency Code": "882"
+  },
+  "San Marino": {
+    "EN_Name": "San Marino",
+    "DE_Name": "San Marino",
+    "alpha3": "smr",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Sao Tome and Principe": {
+    "EN_Name": "Sao Tome and Principe",
+    "DE_Name": "Sao Tome und Principe",
+    "alpha3": "stp",
+    "Currency Name": "dobra",
+    "Currency Short": "std",
+    "Currency Code": "678"
+  },
+  "Saudi Arabia": {
+    "EN_Name": "Saudi Arabia",
+    "DE_Name": "Saudi-Arabien",
+    "alpha3": "sau"
+  },
+  "Senegal": {
+    "EN_Name": "Senegal",
+    "DE_Name": "Senegal",
+    "alpha3": "sen",
+    "Currency Name": "cfa franc bceao",
+    "Currency Short": "xof",
+    "Currency Code": "952"
+  },
+  "Serbia": {
+    "EN_Name": "Serbia",
+    "DE_Name": "Serbien",
+    "alpha3": "srb",
+    "Currency Name": "serbischer dinar",
+    "Currency Short": "rsd",
+    "Currency Code": "941"
+  },
+  "Seychelles": {
+    "EN_Name": "Seychelles",
+    "DE_Name": "Seychellen",
+    "alpha3": "syc",
+    "Currency Name": "seychellen-rupie",
+    "Currency Short": "scr",
+    "Currency Code": "690"
+  },
+  "Sierra Leone": {
+    "EN_Name": "Sierra Leone",
+    "DE_Name": "Sierra Leone",
+    "alpha3": "sle",
+    "Currency Name": "leone",
+    "Currency Short": "sll",
+    "Currency Code": "694"
+  },
+  "Singapore": {
+    "EN_Name": "Singapore",
+    "DE_Name": "Singapur",
+    "alpha3": "sgp",
+    "Currency Name": "singapur-dollar",
+    "Currency Short": "sgd",
+    "Currency Code": "702"
+  },
+  "Slovakia": {
+    "EN_Name": "Slovakia",
+    "DE_Name": "Slowakei",
+    "alpha3": "svk",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Slovenia": {
+    "EN_Name": "Slovenia",
+    "DE_Name": "Slowenien",
+    "alpha3": "svn",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Solomon Islands": {
+    "EN_Name": "Solomon Islands",
+    "DE_Name": "Salomonen",
+    "alpha3": "slb"
+  },
+  "Somalia": {
+    "EN_Name": "Somalia",
+    "DE_Name": "Somalia",
+    "alpha3": "som",
+    "Currency Name": "somali-schilling",
+    "Currency Short": "sos",
+    "Currency Code": "706"
+  },
+  "South Africa": {
+    "EN_Name": "South Africa",
+    "DE_Name": "Suedafrika",
+    "alpha3": "zaf",
+    "Currency Name": "rand",
+    "Currency Short": "zar",
+    "Currency Code": "710"
+  },
+  "South Sudan": {
+    "EN_Name": "South Sudan",
+    "DE_Name": "Suedsudan",
+    "alpha3": "ssd"
+  },
+  "Spain": {
+    "EN_Name": "Spain",
+    "DE_Name": "Spanien",
+    "alpha3": "esp",
+    "Currency Name": "euro",
+    "Currency Short": "eur",
+    "Currency Code": "978"
+  },
+  "Sri Lanka": {
+    "EN_Name": "Sri Lanka",
+    "DE_Name": "Sri Lanka",
+    "alpha3": "lka",
+    "Currency Name": "sri lanka rupee",
+    "Currency Short": "lkr",
+    "Currency Code": "144"
+  },
+  "Sudan": {
+    "EN_Name": "Sudan",
+    "DE_Name": "Sudan",
+    "alpha3": "sdn",
+    "Currency Name": "sudanesisches pfund",
+    "Currency Short": "sdg",
+    "Currency Code": "938"
+  },
+  "Suriname": {
+    "EN_Name": "Suriname",
+    "DE_Name": "Suriname",
+    "alpha3": "sur",
+    "Currency Name": "surinamischer dollar",
+    "Currency Short": "srd",
+    "Currency Code": "968"
+  },
+  "Sweden": {
+    "EN_Name": "Sweden",
+    "DE_Name": "Schweden",
+    "alpha3": "swe",
+    "Currency Name": "schwedische krone",
+    "Currency Short": "sek",
+    "Currency Code": "752"
+  },
+  "Switzerland": {
+    "EN_Name": "Switzerland",
+    "DE_Name": "Schweiz",
+    "alpha3": "che",
+    "Currency Name": "wir franc",
+    "Currency Short": "chw",
+    "Currency Code": "948"
+  },
+  "Syrian Arab Republic": {
+    "EN_Name": "Syrian Arab Republic",
+    "DE_Name": "Syrien",
+    "alpha3": "syr",
+    "Currency Name": "syrisches pfund",
+    "Currency Short": "syp",
+    "Currency Code": "760"
+  },
+  "Tajikistan": {
+    "EN_Name": "Tajikistan",
+    "DE_Name": "Tadschikistan",
+    "alpha3": "tjk"
+  },
+  "Tanzania, United Republic of": {
+    "EN_Name": "Tanzania, United Republic of",
+    "DE_Name": "Tansania",
+    "alpha3": "tza",
+    "Currency Name": "tanzanian shilling",
+    "Currency Short": "tzs",
+    "Currency Code": "834"
+  },
+  "Thailand": {
+    "EN_Name": "Thailand",
+    "DE_Name": "Thailand",
+    "alpha3": "tha",
+    "Currency Name": "baht",
+    "Currency Short": "thb",
+    "Currency Code": "764"
+  },
+  "Timor-Leste": {
+    "EN_Name": "Timor-Leste",
+    "DE_Name": "Osttimor",
+    "alpha3": "tls"
+  },
+  "Togo": {
+    "EN_Name": "Togo",
+    "DE_Name": "Togo",
+    "alpha3": "tgo",
+    "Currency Name": "cfa franc bceao",
+    "Currency Short": "xof",
+    "Currency Code": "952"
+  },
+  "Tonga": {
+    "EN_Name": "Tonga",
+    "DE_Name": "Tonga",
+    "alpha3": "ton",
+    "Currency Name": "pa\u2019anga",
+    "Currency Short": "top",
+    "Currency Code": "776"
+  },
+  "Trinidad and Tobago": {
+    "EN_Name": "Trinidad and Tobago",
+    "DE_Name": "Trinidad und Tobago",
+    "alpha3": "tto",
+    "Currency Name": "trinidad und tobago dollar",
+    "Currency Short": "ttd",
+    "Currency Code": "780"
+  },
+  "Tunisia": {
+    "EN_Name": "Tunisia",
+    "DE_Name": "Tunesien",
+    "alpha3": "tun",
+    "Currency Name": "tunesischer dinar",
+    "Currency Short": "tnd",
+    "Currency Code": "788"
+  },
+  "Turkey": {
+    "EN_Name": "Turkey",
+    "DE_Name": "Tuerkei",
+    "alpha3": "tur",
+    "Currency Name": "tuerkische lira",
+    "Currency Short": "try",
+    "Currency Code": "949"
+  },
+  "Turkmenistan": {
+    "EN_Name": "Turkmenistan",
+    "DE_Name": "Turkmenistan",
+    "alpha3": "tkm",
+    "Currency Name": "turkmenistan-manat",
+    "Currency Short": "tmt",
+    "Currency Code": "934"
+  },
+  "Tuvalu": {
+    "EN_Name": "Tuvalu",
+    "DE_Name": "Tuvalu",
+    "alpha3": "tuv",
+    "Currency Name": "australischer dollar",
+    "Currency Short": "aud",
+    "Currency Code": "36"
+  },
+  "Uganda": {
+    "EN_Name": "Uganda",
+    "DE_Name": "Uganda",
+    "alpha3": "uga",
+    "Currency Name": "uganda-schilling",
+    "Currency Short": "ugx",
+    "Currency Code": "800"
+  },
+  "Ukraine": {
+    "EN_Name": "Ukraine",
+    "DE_Name": "Ukraine",
+    "alpha3": "ukr",
+    "Currency Name": "hryvnia",
+    "Currency Short": "uah",
+    "Currency Code": "980"
+  },
+  "United Arab Emirates": {
+    "EN_Name": "United Arab Emirates",
+    "DE_Name": "Vereinigte Arabische Emirate",
+    "alpha3": "are"
+  },
+  "United Kingdom of Great Britain and Northern Ireland": {
+    "EN_Name": "United Kingdom of Great Britain and Northern Ireland",
+    "DE_Name": "Vereinigtes Koenigreich",
+    "alpha3": "gbr"
+  },
+  "United States": {
+    "EN_Name": "United States of America",
+    "DE_Name": "Vereinigte Staaten",
+    "alpha3": "usa",
+    "Currency Name": "us dollar",
+    "Currency Short": "usd",
+    "Currency Code": "840"
+  },
+  "Uruguay": {
+    "EN_Name": "Uruguay",
+    "DE_Name": "Uruguay",
+    "alpha3": "ury",
+    "Currency Name": "peso uruguayo",
+    "Currency Short": "uyu",
+    "Currency Code": "858"
+  },
+  "Uzbekistan": {
+    "EN_Name": "Uzbekistan",
+    "DE_Name": "Usbekistan",
+    "alpha3": "uzb"
+  },
+  "Vanuatu": {
+    "EN_Name": "Vanuatu",
+    "DE_Name": "Vanuatu",
+    "alpha3": "vut",
+    "Currency Name": "vatu",
+    "Currency Short": "vuv",
+    "Currency Code": "548"
+  },
+  "Venezuela (Bolivarian Republic of)": {
+    "EN_Name": "Venezuela (Bolivarian Republic of)",
+    "DE_Name": "Venezuela",
+    "alpha3": "ven"
+  },
+  "Viet Nam": {
+    "EN_Name": "Viet Nam",
+    "DE_Name": "Vietnam",
+    "alpha3": "vnm",
+    "Currency Name": "dong",
+    "Currency Short": "vnd",
+    "Currency Code": "704"
+  },
+  "Yemen": {
+    "EN_Name": "Yemen",
+    "DE_Name": "Jemen",
+    "alpha3": "yem"
+  },
+  "Zambia": {
+    "EN_Name": "Zambia",
+    "DE_Name": "Sambia",
+    "alpha3": "zmb",
+    "Currency Name": "sambische kwacha",
+    "Currency Short": "zmw",
+    "Currency Code": "967"
+  },
+  "Zimbabwe": {
+    "EN_Name": "Zimbabwe",
+    "DE_Name": "Simbabwe",
+    "alpha3": "zwe",
+    "Currency Name": "simbabwe-dollar",
+    "Currency Short": "zwl",
+    "Currency Code": "932"
+  }
+}
