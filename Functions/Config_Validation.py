@@ -1,0 +1,1 @@
+#TODO Check Configs before reading them, load all appropriate data

@@ -1,0 +1,12 @@
+{
+  "Entry_1": {
+    "fruit": "pineapple",
+    "color": "yellow",
+    "core": "no"
+  },
+  "Entry_2": {
+    "fruit": "cherry",
+    "color": "red",
+    "core": "yes"
+  }
+}

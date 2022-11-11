@@ -1,3 +1,0 @@
-from .weather_api_call import get_data_from_name
-from .currency_api_call import get_currency_info
-from .flight_api_call import get_flight_info
