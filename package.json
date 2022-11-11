@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mocha": "^10.1.0",
+    "xml-js": "^1.6.11",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
